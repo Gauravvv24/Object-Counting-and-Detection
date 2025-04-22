@@ -4,3 +4,4 @@ imageio>=2.34.0
 imageio-ffmpeg>=0.4.9
 pandas>=2.2.1
 ultralytics>=8.1.26
+shapely
